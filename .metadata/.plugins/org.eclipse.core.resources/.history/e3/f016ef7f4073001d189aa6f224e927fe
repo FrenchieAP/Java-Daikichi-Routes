@@ -1,0 +1,5 @@
+package com.antoine.controllerspractice;
+
+public class HomeController {
+
+}
